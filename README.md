@@ -1,5 +1,17 @@
 # NoteTaker
 
+## Table of Contents
+
+1. Description
+2. User Story
+3. Acceptance Criteria
+4. Usage
+
+
+## Description
+
+In a business owners life there are many things going on and this app has been created to help alleviate that. This helps them keep track of what goes on in their mind as far as note taking so they don't miss an important part of their life. 
+
 ## User Story
 
 ```
@@ -26,3 +38,9 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+
+## Usage 
+
+First you must go to the project directory and integrate the terminal
+Then you run "node index.js" 
+Lastly you type into your browser "http://localhost:3001" to see the application display! 
