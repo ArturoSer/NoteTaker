@@ -3,7 +3,7 @@ const {
     writeToFile,
     readFromFile,
 } = require("../utilsJS/utilsfs");
-const db = require("../Develop/db/db.json");
+const db = require("../develop/db/db.json");
 const path = require("path");
 const uuid = require("../utilsJS/random");
 const router = require("express").Router();
